@@ -1,0 +1,436 @@
+
+DTXMania powered by YAMAHA Silent Session Drums
+Release: 1.5.7
+
+2021/05/27 21:09:44.568 [INFO] ----------------------
+2021/05/27 21:09:44.568 [INFO] ■ アプリケーションの初期化
+2021/05/27 21:09:44.568 [INFO] OS Version: Microsoft Windows NT 6.2.9200.0
+2021/05/27 21:09:44.568 [INFO] ProcessorCount: 8
+2021/05/27 21:09:44.568 [INFO] CLR Version: 2.0.50727.9151
+2021/05/27 21:09:45.023 [INFO] スキンの初期化を行います。
+2021/05/27 21:09:45.039 [INFO]     SkinPath検出: E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\
+2021/05/27 21:09:45.039 [INFO]     SkinPath入力: E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\
+2021/05/27 21:09:45.039 [INFO]     SkinPath設定: E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\
+2021/05/27 21:09:45.106 [WARNING]     System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 TJAPlayer3.CSkin.Cシステムサウンド.t読み込み() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 213
+   場所 TJAPlayer3.CSkin.ReloadSkin() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 642
+2021/05/27 21:09:45.106 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Move.ogg)
+2021/05/27 21:09:45.106 [WARNING]     System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 TJAPlayer3.CSkin.Cシステムサウンド.t読み込み() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 213
+   場所 TJAPlayer3.CSkin.ReloadSkin() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 642
+2021/05/27 21:09:45.106 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Decide.ogg)
+2021/05/27 21:09:45.106 [WARNING]     System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 TJAPlayer3.CSkin.Cシステムサウンド.t読み込み() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 213
+   場所 TJAPlayer3.CSkin.ReloadSkin() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 642
+2021/05/27 21:09:45.106 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Change.ogg)
+2021/05/27 21:09:45.106 [WARNING]     System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 TJAPlayer3.CSkin.Cシステムサウンド.t読み込み() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 213
+   場所 TJAPlayer3.CSkin.ReloadSkin() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 642
+2021/05/27 21:09:45.106 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Cancel.ogg)
+2021/05/27 21:09:45.106 [WARNING]     System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 TJAPlayer3.CSkin.Cシステムサウンド.t読み込み() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 213
+   場所 TJAPlayer3.CSkin.ReloadSkin() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 642
+2021/05/27 21:09:45.106 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Audience.ogg)
+2021/05/27 21:09:45.106 [WARNING]     System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 TJAPlayer3.CSkin.Cシステムサウンド.t読み込み() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 213
+   場所 TJAPlayer3.CSkin.ReloadSkin() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 642
+2021/05/27 21:09:45.106 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Game start.ogg)
+2021/05/27 21:09:45.106 [WARNING]     System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 TJAPlayer3.CSkin.Cシステムサウンド.t読み込み() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 213
+   場所 TJAPlayer3.CSkin.ReloadSkin() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 642
+2021/05/27 21:09:45.106 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\Full combo.ogg)
+2021/05/27 21:09:45.106 [WARNING]     System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 TJAPlayer3.CSkin.Cシステムサウンド.t読み込み() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 213
+   場所 TJAPlayer3.CSkin.ReloadSkin() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 642
+2021/05/27 21:09:45.106 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\balloon.ogg)
+2021/05/27 21:09:45.106 [WARNING]     System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 TJAPlayer3.CSkin.Cシステムサウンド.t読み込み() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 213
+   場所 TJAPlayer3.CSkin.ReloadSkin() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 642
+2021/05/27 21:09:45.106 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\SongDecide.ogg)
+2021/05/27 21:09:45.106 [WARNING]     System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 TJAPlayer3.CSkin.Cシステムサウンド.t読み込み() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 213
+   場所 TJAPlayer3.CSkin.ReloadSkin() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\CSkin.cs:行 642
+2021/05/27 21:09:45.106 [WARNING]     システムサウンドの読み込みに失敗しました。(Sounds\ResultIn.ogg)
+2021/05/27 21:09:45.168 [WARNING]     SkinConfigの値 Game_Balloon_Roll_Number_Scale は整数値である必要があります。現在の値: 1.000
+2021/05/27 21:09:45.168 [WARNING]     SkinConfigの値 Game_Balloon_Balloon_Number_Scale は整数値である必要があります。現在の値: 0.879
+2021/05/27 21:09:45.168 [INFO]     スキンの初期化を完了しました。
+2021/05/27 21:09:45.168 [INFO] タイマの初期化を行います。
+2021/05/27 21:09:45.179 [INFO]     タイマの初期化を完了しました。
+2021/05/27 21:09:45.179 [INFO] FPSカウンタの初期化を行います。
+2021/05/27 21:09:45.180 [INFO]     FPSカウンタを生成しました。
+2021/05/27 21:09:45.180 [INFO] 文字コンソールの初期化を行います。
+2021/05/27 21:09:45.180 [INFO]     文字コンソールを生成しました。
+2021/05/27 21:09:45.224 [INFO]     文字コンソールを活性化しました。
+2021/05/27 21:09:45.224 [INFO]     文字コンソールの初期化を完了しました。
+2021/05/27 21:09:45.224 [INFO] DirectInput, MIDI入力の初期化を行います。
+2021/05/27 21:09:45.277 [INFO]     キーボード を生成しました。
+2021/05/27 21:09:45.280 [INFO]     マウス を生成しました。
+2021/05/27 21:09:45.353 [INFO]     MIDI入力デバイス数: 0
+2021/05/27 21:09:45.354 [INFO]     DirectInput の初期化を完了しました。
+2021/05/27 21:09:45.354 [INFO] パッドの初期化を行います。
+2021/05/27 21:09:45.354 [INFO]     パッドの初期化を完了しました。
+2021/05/27 21:09:45.354 [INFO] サウンドデバイスの初期化を行います。
+2021/05/27 21:09:45.360 [INFO]     DirectSound の初期化を開始します。
+2021/05/27 21:09:45.522 [INFO]     DirectSound を初期化しました。(Priority)(FDKtimer)
+2021/05/27 21:09:45.523 [INFO]     Initializing loudness scanning, song gain control, and sound group level control...
+2021/05/27 21:09:45.529 [INFO]         LoudnessMetadataScanner.StartBackgroundScanning: BS1770GAIN is not available. A background scanning thread will not be started.
+2021/05/27 21:09:45.535 [INFO]     Initialized loudness scanning, song gain control, and sound group level control.
+2021/05/27 21:09:45.541 [INFO]     サウンドデバイスの初期化を完了しました。
+2021/05/27 21:09:45.541 [INFO] 曲リストの初期化を行います。
+2021/05/27 21:09:45.542 [INFO]     曲リストの初期化を完了しました。
+2021/05/27 21:09:45.876 [INFO] プラグインの検索と生成を行います。
+2021/05/27 21:09:45.878 [WARNING]     プラグインフォルダが存在しません。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\Plugins\)
+2021/05/27 21:09:45.878 [INFO]     プラグインの検索と生成を完了しました。
+2021/05/27 21:09:45.939 [INFO] アプリケーションの初期化を完了しました。
+2021/05/27 21:09:45.939 [INFO] ----------------------
+2021/05/27 21:09:45.939 [INFO] ■ 起動
+2021/05/27 21:09:45.939 [INFO] 起動ステージを活性化します。
+2021/05/27 21:09:45.989 [INFO]     起動ステージの活性化を完了しました。
+2021/05/27 21:09:46.014 [INFO] 0) システムサウンドを構築します。
+2021/05/27 21:09:46.015 [WARNING]     ファイルが存在しません。: Sounds\Setup BGM.ogg
+2021/05/27 21:09:46.123 [INFO]     システムサウンドを読み込みました。(Sounds\Move.ogg)
+2021/05/27 21:09:46.145 [INFO]     システムサウンドを読み込みました。(Sounds\Decide.ogg)
+2021/05/27 21:09:46.165 [INFO]     システムサウンドを読み込みました。(Sounds\Change.ogg)
+2021/05/27 21:09:46.182 [INFO]     システムサウンドを読み込みました。(Sounds\Cancel.ogg)
+2021/05/27 21:09:46.222 [INFO]     システムサウンドを読み込みました。(Sounds\Audience.ogg)
+2021/05/27 21:09:46.264 [INFO]     システムサウンドを読み込みました。(Sounds\Game start.ogg)
+2021/05/27 21:09:46.317 [INFO]     システムサウンドを読み込みました。(Sounds\Full combo.ogg)
+2021/05/27 21:09:46.335 [INFO]     システムサウンドを読み込みました。(Sounds\balloon.ogg)
+2021/05/27 21:09:46.375 [INFO]     システムサウンドを読み込みました。(Sounds\SongDecide.ogg)
+2021/05/27 21:09:46.417 [INFO]     システムサウンドを読み込みました。(Sounds\ResultIn.ogg)
+2021/05/27 21:09:46.417 [INFO] 1) songlist.dbを読み込みます。
+2021/05/27 21:09:46.446 [INFO]     songlist.db の読み込みを完了しました。[6スコア]
+2021/05/27 21:09:46.446 [INFO] 2) songs.db を読み込みます。
+2021/05/27 21:09:46.459 [INFO]     songs.db の読み込みを完了しました。[10スコア]
+2021/05/27 21:09:46.459 [INFO] 起動所要時間: 00:00:00.4455666
+2021/05/27 21:09:46.531 [WARNING] テクスチャファイルが見つかりませんでした。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\Graphics\Overlay.png)
+2021/05/27 21:09:46.531 [WARNING] テクスチャファイルが見つかりませんでした。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\Graphics\1P_NamePlate.png)
+2021/05/27 21:09:46.532 [WARNING] テクスチャファイルが見つかりませんでした。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\Graphics\2P_NamePlate.png)
+2021/05/27 21:09:46.794 [WARNING] テクスチャファイルが見つかりませんでした。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\Graphics\3_SongSelect\Frame_Box.png)
+2021/05/27 21:09:46.804 [WARNING] テクスチャファイルが見つかりませんでした。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\Graphics\3_SongSelect\Frame_Random.png)
+2021/05/27 21:09:50.991 [WARNING] テクスチャファイルが見つかりませんでした。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\Graphics\5_Game\0\Background.png)
+2021/05/27 21:09:51.228 [WARNING] テクスチャファイルが見つかりませんでした。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\Graphics\5_Game\4_CourseSymbol\Tower.png)
+2021/05/27 21:09:51.228 [WARNING] テクスチャファイルが見つかりませんでした。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\Graphics\5_Game\4_CourseSymbol\Dan.png)
+2021/05/27 21:09:53.038 [WARNING] テクスチャファイルが見つかりませんでした。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\Graphics\5_Game\18_PuchiChara\0.png)
+2021/05/27 21:09:53.362 [WARNING] テクスチャファイルが見つかりませんでした。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\Graphics\7_Exit\Background.png)
+2021/05/27 21:09:53.362 [INFO] 起動ステージを非活性化します。
+2021/05/27 21:09:53.366 [INFO]     起動ステージの非活性化を完了しました。
+2021/05/27 21:09:53.366 [INFO] ----------------------
+2021/05/27 21:09:53.366 [INFO] ■ タイトル
+2021/05/27 21:09:53.367 [INFO] タイトルステージを活性化します。
+2021/05/27 21:09:53.367 [INFO]     タイトルステージの活性化を完了しました。
+2021/05/27 21:09:53.507 [INFO] ★曲データ検索スレッドを起動しました。
+2021/05/27 21:09:53.519 [INFO] enum2) 曲データを検索します。
+2021/05/27 21:09:53.519 [INFO]     検索パス: E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\.\
+2021/05/27 21:09:53.988 [INFO]         CSound.GroupLevel set: 90
+2021/05/27 21:09:53.988 [INFO]         CSound.SetVolume: Gain:0. Automation Level: 0. Group Level: -0.915150046348572. Summed Gain: -0.915150046348572. Safe True Peak Gain: 0. Final Gain: -0.915150046348572.
+2021/05/27 21:09:54.083 [INFO]         CSound.GroupLevel set: 90
+2021/05/27 21:09:54.083 [INFO]         CSound.SetVolume: Gain:0. Automation Level: 0. Group Level: -0.915150046348572. Summed Gain: -0.915150046348572. Safe True Peak Gain: 0. Final Gain: -0.915150046348572.
+2021/05/27 21:09:54.670 [WARNING]         命令名: SCOREINIT first value のパラメータの値が正しくないことを検知しました。値: 690.2870 (E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\songs\J-POP\82,嘘.tja)
+2021/05/27 21:09:57.727 [WARNING]         命令名: SCOREINIT first value のパラメータの値が正しくないことを検知しました。値: 690.2870 (E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\songs\アニメ\02,01~99\62,嘘.tja)
+2021/05/27 21:09:58.538 [WARNING]         命令名: SCOREDIFF のパラメータの値が正しくないことを検知しました。値: 135,1640 (E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\songs\クラシック\02,01~\09,白鳥の湖.tja)
+2021/05/27 21:10:00.946 [WARNING]         命令 #MEASURE subsplit のパラメータが足りません。少なくとも 2 つのパラメータが必要です。 (現在のパラメータ数: 1). (E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\songs\ゲームミュージック\01,~00\48,ドルアーガの塔メドレー.tja)
+2021/05/27 21:10:00.954 [ERROR]         System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t命令を挿入する(String InputText) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 3281
+   場所 TJAPlayer3.CDTX.t入力_行解析譜面_V4(String InputText) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 3921
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 3190
+2021/05/27 21:10:00.954 [ERROR]         例外が発生しましたが処理を継続します。 (2da1e880-6b63-4e82-b018-bf18c3568335)
+2021/05/27 21:10:02.245 [WARNING]         命令名: SCOREINIT second value のパラメータの値が正しくないことを検知しました。値: 52900 (E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\songs\ナムコオリジナル\08.301~\17,冬竜 ～Toryu～.tja)
+2021/05/27 21:10:02.574 [INFO]         CDTXCompanionFileFinder could not find expected file 'E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\songs\ナムコオリジナル\08.301~\哀 want U.ogg' but found '36,哀 want U.ogg' by matching the '36,哀 want U.tja' file name with the expected file extension.
+2021/05/27 21:10:12.744 [WARNING]         命令名: SCOREINIT first value のパラメータの値が正しくないことを検知しました。値: 900.8830 (E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\songs\ナムコオリジナル\04.101~199\50,Calculator.tja)
+2021/05/27 21:10:12.745 [WARNING]         命令名: SCOREINIT first value のパラメータの値が正しくないことを検知しました。値: 900.8830 (E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\songs\ナムコオリジナル\04.101~199\50,Calculator.tja)
+2021/05/27 21:10:15.632 [INFO]         タイトルステージを非活性化します。
+2021/05/27 21:10:15.632 [INFO]     タイトルステージの非活性化を完了しました。
+2021/05/27 21:10:15.633 [INFO] ----------------------
+2021/05/27 21:10:15.633 [INFO] ■ 選曲
+2021/05/27 21:10:15.633 [INFO] 選曲ステージを活性化します。
+2021/05/27 21:10:15.644 [WARNING]     テクスチャファイルが見つかりませんでした。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\Graphics\Screen option panels.png)
+2021/05/27 21:10:15.673 [WARNING]     テクスチャファイルが見つかりませんでした。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\Graphics\5_preimage panel.png)
+2021/05/27 21:10:15.673 [WARNING]     テクスチャファイルが見つかりませんでした。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\Graphics\5_sensor.png)
+2021/05/27 21:10:15.673 [WARNING]     テクスチャファイルが見つかりませんでした。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\Graphics\5_preimage default.png)
+2021/05/27 21:10:15.678 [WARNING]     テクスチャファイルが見つかりませんでした。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\Graphics\5_information_BG.png)
+2021/05/27 21:10:15.679 [WARNING]     テクスチャファイルが見つかりませんでした。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\Graphics\5_information.png)
+2021/05/27 21:10:15.679 [WARNING]     テクスチャファイルが見つかりませんでした。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\Graphics\5_information2.png)
+2021/05/27 21:10:15.680 [INFO]     選曲ステージの活性化を完了しました。
+2021/05/27 21:10:17.305 [WARNING] 命令名: SCOREDIFF のパラメータの値が正しくないことを検知しました。値: 135,1640 (E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\songs\ナムコオリジナル\06.201~299\55,白鳥の湖.tja)
+2021/05/27 21:10:18.778 [WARNING] 命令名: SCOREDIFF のパラメータの値が正しくないことを検知しました。値: 98,1310 (E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\songs\ナムコオリジナル\06.201~299\86,季曲.tja)
+2021/05/27 21:10:18.865 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:18.870 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:18.870 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:18.914 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:18.914 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:18.914 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:18.954 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:18.955 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:18.955 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:18.997 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:18.998 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:18.998 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.042 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.042 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.042 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.084 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.085 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.085 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.129 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.130 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.131 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.173 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.173 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.173 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.219 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.219 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.219 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.262 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.264 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.264 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.304 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.304 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.304 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.342 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.343 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.343 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.381 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.382 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.382 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.417 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.418 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.418 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.512 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.512 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.513 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.554 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.555 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.555 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.592 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.593 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.593 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.646 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.647 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.647 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.687 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.687 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.687 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.728 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.729 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.729 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.773 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.773 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.773 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.813 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.814 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.814 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.856 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.856 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.856 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.898 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.899 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.899 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.940 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.940 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.940 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:19.986 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:19.986 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:19.986 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:20.030 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:20.030 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:20.030 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:20.071 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:20.072 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:20.072 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:20.111 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:20.112 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:20.112 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:20.209 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:20.210 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:20.210 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:20.257 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:20.257 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:20.257 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:20.317 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:20.318 [ERROR] System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:20.318 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:20.345 [INFO] ★曲データ検索スレッドを中断しました。
+2021/05/27 21:10:20.346 [INFO] 選曲ステージを非活性化します。
+2021/05/27 21:10:20.371 [INFO]     選曲ステージの非活性化を完了しました。
+2021/05/27 21:10:20.371 [INFO] ----------------------
+2021/05/27 21:10:20.371 [INFO] ■ 曲読み込み
+2021/05/27 21:10:20.372 [INFO] 曲読み込みステージを活性化します。
+2021/05/27 21:10:20.373 [ERROR]     おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:20.373 [ERROR]     System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:20.373 [ERROR]     例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:20.424 [ERROR]     おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:20.424 [ERROR]     System.IndexOutOfRangeException: インデックスが配列の境界外です。
+   場所 TJAPlayer3.CDTX.t入力_V4(String strInput) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2968
+   場所 TJAPlayer3.CDTX.t入力_全入力文字列から(String str全入力文字列, String str1, Double db再生速度, Int32 nBGMAdjust) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 2011
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1937
+2021/05/27 21:10:20.424 [ERROR]     例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:20.442 [INFO]     曲読み込みステージの活性化を完了しました。
+2021/05/27 21:10:20.464 [WARNING] ファイルが存在しません。: Sounds\Now loading.ogg
+2021/05/27 21:10:20.488 [ERROR] おや?エラーが出たようです。お兄様。
+2021/05/27 21:10:20.490 [ERROR] System.IO.DirectoryNotFoundException: パス 'C:\Users\seno\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\songs\挑戦!サンプル段位認定\挑戦!サンプル段位認定.tja' の一部が見つかりませんでした。
+   場所 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   場所 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   場所 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   場所 System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize)
+   場所 System.IO.StreamReader..ctor(String path, Encoding encoding)
+   場所 TJAPlayer3.CDTX.t入力(String strファイル名, Boolean bヘッダのみ, Double db再生速度, Int32 nBGMAdjust, Int32 nReadVersion, Int32 nPlayerSide, Boolean bSession) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Songs\CDTX.cs:行 1915
+2021/05/27 21:10:20.490 [ERROR] 例外が発生しましたが処理を継続します。 (79ff8639-9b3c-477f-bc4a-f2eea9784860)
+2021/05/27 21:10:20.491 [INFO] ----曲情報-----------------
+2021/05/27 21:10:20.491 [INFO] TITLE: 
+2021/05/27 21:10:20.491 [INFO] FILE: C:\Users\seno\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\songs\挑戦!サンプル段位認定\挑戦!サンプル段位認定.tja
+2021/05/27 21:10:20.491 [INFO] ---------------------------
+2021/05/27 21:10:20.491 [INFO] DTX読込所要時間:           00:00:00.0170281
+2021/05/27 21:10:21.677 [INFO] WAV読込所要時間(   0):     00:00:01.1846095
+2021/05/27 21:10:21.785 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\seno\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\songs\挑戦!サンプル段位認定\Dan_Plate.png)
+2021/05/27 21:10:21.849 [WARNING] テクスチャファイルが見つかりませんでした。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\System\SimpleStyle\Graphics\ScreenSelect level numbers.png)
+2021/05/27 21:10:22.324 [WARNING] テクスチャファイルが見つかりませんでした。(C:\Users\seno\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\songs\挑戦!サンプル段位認定\Dan_Plate.png)
+2021/05/27 21:10:24.483 [INFO] ----------------------
+2021/05/27 21:10:24.483 [INFO] ■ アプリケーションの終了
+2021/05/27 21:10:24.483 [INFO] 曲検索actの終了処理を行います。
+2021/05/27 21:10:24.483 [INFO]     曲検索actの終了処理を完了しました。
+2021/05/27 21:10:24.483 [INFO] 現在のステージを終了します。
+2021/05/27 21:10:24.484 [INFO]     曲読み込みステージを非活性化します。
+2021/05/27 21:10:24.486 [INFO]         曲読み込みステージの非活性化を完了しました。
+2021/05/27 21:10:24.487 [INFO]     現在のステージの終了処理を完了しました。
+2021/05/27 21:10:24.487 [INFO] [Discord] Shutdowned.
+2021/05/27 21:10:24.487 [INFO] 曲リストの終了処理を行います。
+2021/05/27 21:10:24.488 [INFO]     曲リストの終了処理を完了しました。
+2021/05/27 21:10:24.592 [INFO] スキンの終了処理を行います。
+2021/05/27 21:10:24.601 [INFO]     スキンの終了処理を完了しました。
+2021/05/27 21:10:24.602 [INFO] DirectSound の終了処理を行います。
+2021/05/27 21:10:24.653 [INFO]     DirectSound の終了処理を完了しました。
+2021/05/27 21:10:24.653 [INFO] パッドの終了処理を行います。
+2021/05/27 21:10:24.653 [INFO]     パッドの終了処理を完了しました。
+2021/05/27 21:10:24.653 [INFO] DirectInput, MIDI入力の終了処理を行います。
+2021/05/27 21:10:24.654 [INFO]     DirectInput, MIDI入力の終了処理を完了しました。
+2021/05/27 21:10:24.654 [INFO] 文字コンソールの終了処理を行います。
+2021/05/27 21:10:24.655 [INFO]     文字コンソールの終了処理を完了しました。
+2021/05/27 21:10:24.655 [INFO] FPSカウンタの終了処理を行います。
+2021/05/27 21:10:24.655 [INFO]     FPSカウンタの終了処理を完了しました。
+2021/05/27 21:10:24.655 [INFO] タイマの終了処理を行います。
+2021/05/27 21:10:24.655 [INFO]     タイマの終了処理を完了しました。
+2021/05/27 21:10:24.656 [INFO] Config.ini を出力します。
+2021/05/27 21:10:24.998 [INFO]     保存しました。(E:\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\Test\Config.ini)
+2021/05/27 21:10:24.998 [INFO] Deinitializing loudness scanning, song gain control, and sound group level control...
+2021/05/27 21:10:24.999 [INFO] Deinitialized loudness scanning, song gain control, and sound group level control.
+2021/05/27 21:10:25.000 [INFO] アプリケーションの終了処理を完了しました。
+
+System.ArgumentOutOfRangeException: インデックスが範囲を超えています。負でない値で、コレクションのサイズよりも小さくなければなりません。
+パラメータ名: index
+   場所 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   場所 System.ThrowHelper.ThrowArgumentOutOfRangeException()
+   場所 System.Collections.Generic.List`1.get_Item(Int32 index)
+   場所 TJAPlayer3.CStage演奏ドラム画面.On活性化() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Stages\07.Game\Taiko\CStage演奏ドラム画面.cs:行 277
+   場所 TJAPlayer3.CStage曲読み込み.On進行描画() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Stages\06.SongLoading\CStage曲読み込み.cs:行 468
+   場所 TJAPlayer3.TJAPlayer3.Draw(GameTime gameTime) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\TJAPlayer3.cs:行 634
+   場所 SampleFramework.Game.DrawFrame() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\FDK19\コード\01.フレームワーク\Core\Game.cs:行 511
+   場所 SampleFramework.Game.Tick() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\FDK19\コード\01.フレームワーク\Core\Game.cs:行 377
+   場所 SampleFramework.Game.Application_Idle(Object sender, EventArgs e) 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\FDK19\コード\01.フレームワーク\Core\Game.cs:行 532
+   場所 System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   場所 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(Int32 dwComponentID, Int32 reason, Int32 pvLoopData)
+   場所 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   場所 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   場所 System.Windows.Forms.Application.Run(Form mainForm)
+   場所 SampleFramework.Game.Run() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\FDK19\コード\01.フレームワーク\Core\Game.cs:行 262
+   場所 TJAPlayer3.Program.Main() 場所 C:\Users\tomo\Downloads\TJAPlayer3-Ver.1.5.7\TJAPlayer3-Ver.1.5.7\TJAPlayer3\Common\Program.cs:行 144
+エラーだゴメン！（涙
